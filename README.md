@@ -1,7 +1,7 @@
 <!--Title @oceceli-->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;My+name+is+Ömer+Ceceli;A+Software+Developer+from+Turkey;Welcome!) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!!!++👋;My+name+is+Ömer;A+Software+Developer+from+Turkey;Welcome!) 
 
 </div>
 
