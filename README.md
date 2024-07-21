@@ -16,7 +16,6 @@
 <div align="center"> 
 <a href="https://www.linkedin.com/in/oceceli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.oceceli.com" target="_blank"><img src="https://img.shields.io/badge/-My Web Site-2b2b2b?style=for-the-badge&logo=jekyll&logoColor=fc0"></a>
-<a href="https://twitter.com/coderbulbul" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
 <!--Total Contributions--> 
